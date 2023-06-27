@@ -24,7 +24,7 @@
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 24px;
 
     .menu-icon {
         display: none;
@@ -257,24 +257,10 @@
     }
 }
 
-
-//For people page:
-.people-col-wrapper {
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
-}
-.people-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-}
-
-.people-col-left {
-    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
-    width:         calc(25% - (#{$spacing-unit} / 2));
-}
-
-.people-col-right {
-    width: -webkit-calc(75% - (#{$spacing-unit} / 2));
-    width:         calc(75% - (#{$spacing-unit} / 2));
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
