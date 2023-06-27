@@ -1,0 +1,9 @@
+# Site settings
+title: "Nohm Devices - Ultra-low-power electronics leveraging non-Ohmic transport"
+email: shankar.progs2@gmail.com
+baseurl: ""
+url: "https://nohm-devices.com"
+
+# Build settings
+markdown: kramdown
+exclude: []
