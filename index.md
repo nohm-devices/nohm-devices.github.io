@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-description: "Nohm Devices: novel ultra-low-power electronics leveraging non-Ohmic transport"
+description: "nOhm devices: novel ultra-low-power electronics leveraging non-Ohmic transport"
 permalink: /
 ---
 
