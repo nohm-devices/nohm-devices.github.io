@@ -5,11 +5,11 @@ description: "nOhm Devices, Inc."
 permalink: /
 ---
 
-### ***Bridging the gap between quantum and classical electronics***
+### ***Bridging the Wiring gap in quantum systems***
 
-nOhm Devices (Cambridge, MA) is addressing the need for highly-efficient
-cryogenic electronics for quantum computing and sensing. These components will
-enable integration of qubits and quantum sensors with control and readout
-electronics, allowing for scaling up and proliferation of these systems.
+nOhm Devices (Cambridge, MA) is developing highly-efficient cryogenic
+electronics for quantum computers and sensors. These components will enable
+in-situ integration of qubits and quantum sensors with control and readout
+circuits, allowing for scaling up and proliferation of quantum systems.
 
 Contact: <ins>info@nohm-devices.com</ins>
