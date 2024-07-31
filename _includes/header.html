@@ -21,30 +21,6 @@
         </svg>
       </a>
 
-      <div class="trigger">
-        <!-- Figure out if current page is a news post -->
-        {% if page.id %}
-           {% assign current_title = "News" %}
-        {% else %}
-           {% assign current_title = page.title %}
-        {% endif %}
-        <!-- For subpages, set current title so as to highlight parent -->
-        {% if page.navtitle %}
-           {% assign current_title = page.navtitle %}
-        {% endif %}
-        <!-- Navigation bar with current page highlighted -->
-        {% for my_page in site.pages %}
-          {% unless my_page.navtitle %}
-          {% if my_page.title %}
-          {% if my_page.title == current_title %}
-             <a class="page-cur" href="{{ my_page.url | prepend: site.baseurl }}"><b>{{ my_page.title }}</b></a>
-          {% else %}
-             <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-          {% endif %}
-          {% endunless %}
-        {% endfor %}
-      </div>
     </nav>
     </div>
   </div>

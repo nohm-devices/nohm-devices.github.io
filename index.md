@@ -1,15 +1,11 @@
 ---
 layout: page
 title: Home
-description: "nOhm devices: novel ultra-low-power electronics leveraging non-Ohmic transport"
+description: "nOhm Devices, Inc."
 permalink: /
 ---
 
-Coming soon ...
-
-## News
-
-{% for post in site.posts limit:3 %}
-+ {{ post.date | date: "%b %-d, %Y" }}: [ {{ post.title }} ]( {{ post.url | prepend: site.baseurl }} )
-{% endfor %}
-+ [Older news](/news/)
+nOhm Devices (Cambridge, MA) is addressing the need for highly-efficient
+cryogenic electronics for quantum computing and sensing. These components will
+enable integration of qubits and quantum sensors with control and readout
+electronics, allowing for scaling up and proliferation of these systems.
