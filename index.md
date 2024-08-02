@@ -5,7 +5,7 @@ description: "nOhm Devices, Inc."
 permalink: /
 ---
 
-### ***Bridging the Wiring gap in quantum systems***
+### ***Bridging the wiring gap between quantum and classical electronics***
 
 nOhm Devices (Cambridge, MA) is developing highly-efficient cryogenic
 electronics for quantum computers and sensors. These components will enable
