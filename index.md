@@ -11,7 +11,7 @@ permalink: /
 <p style="text-align: center; font-size: 120%;">
 	<i>
 		<strong>
-			Bridging the wiring gap between quantum and classical electronics
+			Bridging the Wiring gap
 		</strong>
 	</i>
 </p>
