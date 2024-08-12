@@ -9,11 +9,9 @@ permalink: /
 	<img src="images/nohm-logo.png" alt="logo" width="600"/>
 </p>
 <p style="text-align: center; font-size: 120%;">
-	<i>
-		<strong>
-			Bridging the Wiring gap
-		</strong>
-	</i>
+	<i><strong><font size="+2">
+		Bridging the Wiring gap
+	</font></strong></i>
 </p>
 
 <p align="center">
@@ -26,4 +24,4 @@ in-situ integration of qubits and quantum sensors with control and readout
 circuits, allowing for scaling up and proliferation of quantum systems.
 </p>
 
-Contact: <ins>info@nohm-devices.com</ins>
+Contact: <a href="mailto: info@nohm-devices.com">info@nohm-devices.com</a>
